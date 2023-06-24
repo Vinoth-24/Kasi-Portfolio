@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Kasi-Portfolio/static/css/main.d181672b.css",
+    "main.js": "/Kasi-Portfolio/static/js/main.278201e5.js",
+    "static/css/64.917cfe77.chunk.css": "/Kasi-Portfolio/static/css/64.917cfe77.chunk.css",
+    "static/js/64.71af9455.chunk.js": "/Kasi-Portfolio/static/js/64.71af9455.chunk.js",
+    "static/css/769.70f3b610.chunk.css": "/Kasi-Portfolio/static/css/769.70f3b610.chunk.css",
+    "static/js/769.6f15a4c5.chunk.js": "/Kasi-Portfolio/static/js/769.6f15a4c5.chunk.js",
+    "static/media/aivariantLogo.png": "/Kasi-Portfolio/static/media/aivariantLogo.88a3a373bc9d2b26ae15.png",
+    "static/media/Montserrat-Regular.ttf": "/Kasi-Portfolio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/Agustina.woff": "/Kasi-Portfolio/static/media/Agustina.eb0c59dda4cc308cba96.woff",
+    "static/media/manOnTable.svg": "/Kasi-Portfolio/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
+    "static/media/contactMailDark.svg": "/Kasi-Portfolio/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/developerActivity.svg": "/Kasi-Portfolio/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
+    "static/media/trellLogo.png": "/Kasi-Portfolio/static/media/trellLogo.12c7efe006d6fed25cbc.png",
+    "static/media/amityLogo.png": "/Kasi-Portfolio/static/media/amityLogo.0173b8acda96bb78eaf5.png",
+    "static/media/skill.svg": "/Kasi-Portfolio/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
+    "index.html": "/Kasi-Portfolio/index.html",
+    "static/media/talksCardBack.svg": "/Kasi-Portfolio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
+    "main.d181672b.css.map": "/Kasi-Portfolio/static/css/main.d181672b.css.map",
+    "main.278201e5.js.map": "/Kasi-Portfolio/static/js/main.278201e5.js.map",
+    "64.917cfe77.chunk.css.map": "/Kasi-Portfolio/static/css/64.917cfe77.chunk.css.map",
+    "64.71af9455.chunk.js.map": "/Kasi-Portfolio/static/js/64.71af9455.chunk.js.map",
+    "769.70f3b610.chunk.css.map": "/Kasi-Portfolio/static/css/769.70f3b610.chunk.css.map",
+    "769.6f15a4c5.chunk.js.map": "/Kasi-Portfolio/static/js/769.6f15a4c5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d181672b.css",
+    "static/js/main.278201e5.js"
+  ]
+}
