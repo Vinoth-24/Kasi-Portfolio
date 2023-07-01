@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/Kasi-Portfolio/static/css/main.d181672b.css",
-    "main.js": "/Kasi-Portfolio/static/js/main.278201e5.js",
+    "main.js": "/Kasi-Portfolio/static/js/main.2cb6767a.js",
     "static/css/64.917cfe77.chunk.css": "/Kasi-Portfolio/static/css/64.917cfe77.chunk.css",
-    "static/js/64.71af9455.chunk.js": "/Kasi-Portfolio/static/js/64.71af9455.chunk.js",
+    "static/js/64.33ce7780.chunk.js": "/Kasi-Portfolio/static/js/64.33ce7780.chunk.js",
     "static/css/769.70f3b610.chunk.css": "/Kasi-Portfolio/static/css/769.70f3b610.chunk.css",
-    "static/js/769.6f15a4c5.chunk.js": "/Kasi-Portfolio/static/js/769.6f15a4c5.chunk.js",
+    "static/js/769.c390ee66.chunk.js": "/Kasi-Portfolio/static/js/769.c390ee66.chunk.js",
     "static/media/aivariantLogo.png": "/Kasi-Portfolio/static/media/aivariantLogo.88a3a373bc9d2b26ae15.png",
     "static/media/Montserrat-Regular.ttf": "/Kasi-Portfolio/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
     "static/media/Agustina.woff": "/Kasi-Portfolio/static/media/Agustina.eb0c59dda4cc308cba96.woff",
@@ -18,14 +18,14 @@
     "index.html": "/Kasi-Portfolio/index.html",
     "static/media/talksCardBack.svg": "/Kasi-Portfolio/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.d181672b.css.map": "/Kasi-Portfolio/static/css/main.d181672b.css.map",
-    "main.278201e5.js.map": "/Kasi-Portfolio/static/js/main.278201e5.js.map",
+    "main.2cb6767a.js.map": "/Kasi-Portfolio/static/js/main.2cb6767a.js.map",
     "64.917cfe77.chunk.css.map": "/Kasi-Portfolio/static/css/64.917cfe77.chunk.css.map",
-    "64.71af9455.chunk.js.map": "/Kasi-Portfolio/static/js/64.71af9455.chunk.js.map",
+    "64.33ce7780.chunk.js.map": "/Kasi-Portfolio/static/js/64.33ce7780.chunk.js.map",
     "769.70f3b610.chunk.css.map": "/Kasi-Portfolio/static/css/769.70f3b610.chunk.css.map",
-    "769.6f15a4c5.chunk.js.map": "/Kasi-Portfolio/static/js/769.6f15a4c5.chunk.js.map"
+    "769.c390ee66.chunk.js.map": "/Kasi-Portfolio/static/js/769.c390ee66.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d181672b.css",
-    "static/js/main.278201e5.js"
+    "static/js/main.2cb6767a.js"
   ]
 }
