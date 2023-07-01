@@ -26,7 +26,7 @@ const greeting = {
     "A passionate Data Scientist 🚀 having an experience of building ML and AI solutions highly focused on NLP-based Semantic Technology / Python / SQL / LangChain, Tensorflow, and some other cool NLP libraries and frameworks."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1CeUNmqBzrLUPkbqBm620RmF6FlTISV54/view", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1PtLDILcVFXr7DNJjODA2iUdYou16dYQe/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
